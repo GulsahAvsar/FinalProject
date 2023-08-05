@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="favorites_title">Favoris</string>
+
+    <string name="hello_blank_fragment">Bonjour</string>
+
+</resources>
